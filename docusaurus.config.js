@@ -8,6 +8,10 @@ module.exports = {
   favicon: 'img/logo.svg',
   organizationName: 'rapiduix',
   projectName: 'docs',
+
+  
+  themes: ['@docusaurus/theme-live-codeblock'],
+
   themeConfig: {
     navbar: {
       title: 'RapidUIX',
