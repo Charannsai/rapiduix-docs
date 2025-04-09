@@ -1,5 +1,5 @@
 ---
-id: accordion
+id: native_accordion
 title: Accordion
 ---
 

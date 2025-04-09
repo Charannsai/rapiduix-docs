@@ -1,5 +1,5 @@
 ---
-id: accordion
+id: flutter_accordion
 title: Accordion
 ---
 
