@@ -1,7 +1,7 @@
 module.exports = {
   title: 'RapidUIX',
   tagline: 'UI components for React Native and Flutter',
-  url: 'https://rapiduix.dev',
+  url: 'https://docs.rapiduix.tech',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
