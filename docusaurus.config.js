@@ -23,7 +23,7 @@ module.exports = {
         { to: '/docs/react-native/', label: 'React Native', position: 'left' },
         { to: '/docs/flutter/', label: 'Flutter', position: 'left' },
         { to: '/docs/faq', label: 'FAQ', position: 'left' },
-        { href: 'https://github.com/rapiduix-docs', label: 'GitHub', position: 'right' },
+        { href: 'https://github.com/charannsasi/rapiduix-docs', label: 'GitHub', position: 'right' },
       ],
     },
     footer: {
