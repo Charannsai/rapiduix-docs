@@ -12,7 +12,7 @@ export default function Home() {
           <h1 className="hero__title">RapidUIX</h1>
           <p className="hero__subtitle">Cross-platform UI components for React Native & Flutter</p>
           <div>
-            <Link className="button button--secondary button--lg" to="/docs/react-native/index">
+            <Link className="button button--secondary button--lg" to="/docs/react-native">
               Explore Docs
             </Link>
           </div>
@@ -20,11 +20,11 @@ export default function Home() {
       </header>
       <main className="container">
         <div className="card-grid">
-          <Link to="/docs/react-native/accordion" className="card">
+          <Link to="/docs/react-native/native_accordion" className="card">
             <h3>React Native Button →</h3>
             <p>Stylish and accessible button component.</p>
           </Link>
-          <Link to="/docs/flutter/accordion" className="card">
+          <Link to="/docs/flutter/flutter_accordion" className="card">
             <h3>Flutter Button →</h3>
             <p>Fast and flexible button widget for Flutter apps.</p>
           </Link>

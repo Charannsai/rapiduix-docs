@@ -16,8 +16,8 @@ module.exports = {
         src: 'img/logo.svg',
       },
       items: [
-        { to: '/docs/react-native/index', label: 'React Native', position: 'left' },
-        { to: '/docs/flutter/index', label: 'Flutter', position: 'left' },
+        { to: '/docs/react-native/', label: 'React Native', position: 'left' },
+        { to: '/docs/flutter/', label: 'Flutter', position: 'left' },
         { to: '/docs/faq', label: 'FAQ', position: 'left' },
         { href: 'https://github.com/rapiduix', label: 'GitHub', position: 'right' },
       ],
