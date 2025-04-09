@@ -8,11 +8,11 @@ title: Accordion
 Use this to trigger actions in the UI.
 
 
-```tsx live
+```jsx live noInline
 function Demo() {
   return (
     <button onClick={() => alert("Clicked!")}>
-      Hello Button
+      Click Me
     </button>
   );
 }
